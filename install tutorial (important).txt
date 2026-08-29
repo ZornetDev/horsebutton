@@ -1,0 +1,7 @@
+run HORSE SETUP.bat
+install powertoys
+https://github.com/microsoft/PowerToys/releases/tag/v0.101.2362.0 (or on Microsoft Store)
+navigate to Keyboard Manager and turn it on
+Click "Remap a Key"
+in the first box, choose your desired horse key, in the second box choose f13
+save everything and everything is done, you should restart your computer so the scripts start running.

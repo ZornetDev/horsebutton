@@ -1,0 +1,8 @@
+you cant escape the horse.
+
+
+
+
+
+jk remove the HORSHEY folder from the documents
+then do windows + r and type shell:startup and remove the start-horse.vbs and start-horse-image.vbs
