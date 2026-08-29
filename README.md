@@ -7,4 +7,4 @@ working file types are png, gif, mp3 and wav.
 this project uses around 200 mbs of ram on idle.
 
 here's a video of me installing it and talking more in depth about it afterwards.
-[ill add the video when i make it]
+[comment horse if youre reading this]
