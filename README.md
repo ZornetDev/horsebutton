@@ -4,7 +4,7 @@ You can use either AutoHotkey or PowerToys to remap, the tutorial video below sh
 you can add new files to play when you horse inside your Documents/HORSHEY
 they should follow the naming scheme of horse (X).exm
 working file types are png, gif, mp3 and wav.
-this project uses around 150 mbs of ram on idle.
+this project uses around 200 mbs of ram on idle.
 
 here's a video of me installing it and talking more in depth about it afterwards.
 [ill add the video when i make it]
