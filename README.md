@@ -1,4 +1,5 @@
 This is a project that turns the F13 key into a functional key that horses. Intended use is remapping an unused key on your keyboard to F13 (originally the Copilot key).
+You can use either AutoHotkey or PowerToys to remap, the tutorial video below shows how to do it on PowerToys.
 
 you can add new files to play when you horse inside your Documents/HORSHEY
 they should follow the naming scheme of horse (X).exm
