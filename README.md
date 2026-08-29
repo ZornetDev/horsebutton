@@ -6,5 +6,4 @@ they should follow the naming scheme of horse (X).exm
 working file types are png, gif, mp3 and wav.
 this project uses around 200 mbs of ram on idle.
 
-here's a video of me installing it and talking more in depth about it afterwards.
-[comment horse if youre reading this]
+[here's a video of me installing it and talking more in depth about it afterwards.](https://youtu.be/kkN7VV7pPG8)
